@@ -15,6 +15,6 @@ Depends: ${misc:Depends},
          ${R:Depends}
 Recommends: ${R:Recommends}
 Suggests: ${R:Suggests}
-Description: Data for an Introduction to Statistical Learning with Applications in R
+Description: data for 'An Introduction to Statistical Learning with Applications in R'
  This GNU R package provides the collection of data-sets used in the book 'An
  Introduction to Statistical Learning with Applications in R'.
