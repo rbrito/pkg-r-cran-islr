@@ -1,5 +1,5 @@
 Source: r-cran-islr
-Maintainer: Rogério Theodoro de Brito <rbrito@ime.usp.br>
+Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Section: gnu-r
 Priority: optional
 Build-Depends: debhelper (>= 10),
