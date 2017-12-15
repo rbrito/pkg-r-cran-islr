@@ -1,0 +1,60 @@
+Explanation for binary files inside source package according to
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+File: data/Auto.rda
+Documented: man/Auto.Rd
+  Data from StatLib library
+
+File: data/Caravan.rda
+Documented: man/Caravan.Rd
+  Data supplied by Sentient Machine Research, used in the CoIL Challenge 2000.
+
+File: data/Carseats.rda
+Documented: man/Carseats.Rd
+  Simulated data
+
+File: data/College.rda
+Documented: man/College.Rd
+  Data from StatLib library
+
+File: data/Credit.rda
+Documented: man/Credit.Rd
+  Simulated data
+
+File: data/Default.rda
+Documented: man/Default.Rd
+  Simulated data
+
+File: data/Hitters.rda
+Documented: man/Hitters.Rd
+  Data from StatLib library
+
+File: data/Khan.rda
+Documented: man/Khan.Rd
+  Data from experiment
+
+File: data/NCI60.rda
+Documented: man/NCI60.Rd
+  Data from experiment
+
+File: data/OJ.rda
+Documented: man/OJ.Rd
+  Data from experiment
+
+File: data/Portfolio.rda
+Documented: man/Portfolio.Rd
+  Simulated data
+
+File: data/Smarket.rda
+Documented: man/Smarket.Rd
+  Transformed data from Yahoo Finance
+
+File: data/Wage.rda
+Documented: man/Wage.Rd
+  Manually assembled data from US Census
+
+File: data/Weekly.rda
+Documented: man/Weekly.Rd
+  Transformed data from Yahoo Finance
+
+ -- Rogério Brito <rbrito@ime.usp.br>, Fri, 15 Dec 2017 02:56:31 -0200
