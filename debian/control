@@ -16,5 +16,9 @@ Depends: ${misc:Depends},
 Recommends: ${R:Recommends}
 Suggests: ${R:Suggests}
 Description: data for 'An Introduction to Statistical Learning with Applications in R'
- This GNU R package provides the collection of data-sets used in the book 'An
- Introduction to Statistical Learning with Applications in R'.
+ This GNU R package provides the collection of data-sets used in the book
+ 'An Introduction to Statistical Learning with Applications in R', by Gareth
+ James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+ .
+ The book (along with errata and other materials) is available at:
+ http://www-bcf.usc.edu/~gareth/ISL/
